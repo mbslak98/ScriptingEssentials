@@ -37,7 +37,7 @@ for i in range (1,21,1) :
    if (i % 2) == 0:
        print('Even')
    elif i == 7:
-           print('7')
+           print('Snowflake')
    else:
         print('Odd')
 print('')    
